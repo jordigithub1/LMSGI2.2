@@ -1,0 +1,46 @@
+body {
+	background-repeat: repeat;
+	background-image: url("../img/fons.png"); 
+	font-family: arial;
+	font-size: 18px;
+	margin-left: 40px;
+	width: 60%;
+	}
+h1 {
+	color: Chocolate; 
+	background-color:Linen;
+	}
+h2 {
+	color: SaddleBrown;
+	}
+h3 {
+	color: DarkOliveGreen;
+	}
+p {
+	color: DarkGoldenRod; 
+	display: inline-block;
+	text-align:justify;
+	margin-left: 30px;
+	}
+a {
+	color: Purple;
+	text-decoration:none
+	}
+a:hover {
+	color:DarkOliveGreen
+	}
+img {
+	float: left;
+	margin: 20px;
+	display: inline-block;
+	box-shadow: 8px 8px 10px #aaa;
+	}	
+table, tr, td {
+	border-top-style: dotted;
+	border-right-style: none;
+	width:50%
+	}
+th {
+	background-color: Linen;
+	color: SaddleBrown;
+	}
